@@ -1,5 +1,12 @@
 package es.cifpcarlosiii.ed1damdist.tarea4;
 
+/**
+ * @author Francisco Javier Reinaldos Chuecos
+ * @version 1.1 04/03/2026
+ * Esta es la clase principal donde tenemos el main, donde usaremos el resto de clases.
+ * En este caso tenemos creación de objetos de cada clase, uso de arrays para almacenar datos de cada uno de ellos
+ *
+ */
 public class Principal {
 
     public static void main(String[] args) {
