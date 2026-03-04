@@ -4,7 +4,7 @@ package es.cifpcarlosiii.ed1damdist.tarea4;
  * @author Francisco Javier Reinaldos Chuecos
  *
  * @version 1.1 04/03/2026
- * Esta es la clase padre, que contiene su atributo nombre, y los metodos de lo que realiza un animal
+ * Esta es la clase padre que contiene su atributo nombre, y los metodos de lo que realiza un animal
  *
  */
 public class Animal {

@@ -3,7 +3,7 @@ package es.cifpcarlosiii.ed1damdist.tarea4;
 /**
  * @author Francisco Javier Reinaldos Chuecos
  * @version 1.1 04/03/2026
- * clase que hereda de la clase animal la cual contiene metodos heredados del padre
+ * clase que hereda de la de animal la cual contiene metodos heredados del padre
  */
 
 public class Mamifero extends Animal {

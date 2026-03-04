@@ -3,7 +3,7 @@ package es.cifpcarlosiii.ed1damdist.tarea4;
 /**
  * @author Francisco Javier Reinaldos Chuecos
  * @version 1.1 04/03/2026
- * Clase que detalla lo que realiza un perro
+ * Clase que detalla lo que realiza un perro.
  */
 
 public class Perro extends Mamifero {
